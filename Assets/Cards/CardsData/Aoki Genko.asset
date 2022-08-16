@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae09bfc78a19cdf4fb7a57f072de0fa0, type: 3}
+  m_Name: Aoki Genko
+  m_EditorClassIdentifier: 
+  cardID: 002
+  cardName: Aoki Genko
+  cardCountry: Japon
+  cardRarity: B
+  cardDescription: This is Aoki, como steve
+  cardLevel: 3
+  cardPower: 0200000004000000
+  cardDamage: 020000000400000005000000
+  cardImageMax:
+  - {fileID: 21300000, guid: e4eb5016e0f5b6c4fa9e9e6444070e8d, type: 3}
+  cardImageCut:
+  - {fileID: 21300000, guid: 7b813e7ce78dad745addecffbb6f4b41, type: 3}
